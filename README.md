@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrungadithya A N</h1>
 <h3 align="center">Proficient in Developing and Deploying Machine Learning Models in Python 🔰 Accomplished in Solving Real-World Problems with Data 🔰 Completed Multiple Successful Projects on AI , ML and web development</h3>
 
-<img align="right" alt="Codding" width="400" src="[https://imgs.search.brave.com/LvXdykz3anX9eLeolAPRBmcL4dvf1VA9mLQkZCv97xA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)"/>
+<img align="right" alt="Codding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrungadithyaan&label=Profile%20views&color=0e75b6&style=flat" alt="shrungadithyaan" /> </p>
 
